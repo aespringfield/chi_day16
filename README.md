@@ -1,4 +1,5 @@
-# mongodb_notes
+![Mongo Logo](https://upload.wikimedia.org/wikipedia/en/thumb/4/45/MongoDB-Logo.svg/640px-MongoDB-Logo.svg.png)
+# MongoDB Notes
 
 ### Installing MongoDB
 From terminal, enter the following commands :
