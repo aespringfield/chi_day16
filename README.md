@@ -106,7 +106,7 @@ console:
 > “Documents are just JSON-like Objects”
 
 Some Shell commands:
-* use reviews -> Will switch to a database called reviews (which does not exist yet! But will once we save to it!)
+* use fruits -> Will switch to a database called "fruits" (which does not exist yet! But will once we save to it!)
 * db -> Shows us which DB we are using. Returns the current database name.
 * show dbs -> Shows a list of all databases. Shows specifically name and size of DB.
 
